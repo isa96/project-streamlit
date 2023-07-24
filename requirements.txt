@@ -1,0 +1,6 @@
+streamlit
+lorem
+pandas
+seaborn
+matplotlib
+numerize
